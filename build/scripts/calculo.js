@@ -1,0 +1,1 @@
+const valorA=4,valorB=7;valorA.value>valorB.value?console.log("A é maior"):console.log("B é maior");
